@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+}
+.flex-container{
+    display: flex;
+    margin-left: 400px;
+   
+}
+.c{
+    margin-left: 350px;  
+    font-size: 30px; 
+}
+.a a{
+    padding:5px;
+    margin: 10px;
+    color: white;
+    background-color: chartreuse;
+    border-radius: 1px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 3vw;
+    
+}
+.flex-container1{
+    display: flex;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 400px;
+}
+.b a{
+    padding:5px;
+    margin: 10px;
+    color: white;
+    background-color: chartreuse;
+    text-decoration: none;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 13px;  
+}
